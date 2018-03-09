@@ -1,0 +1,32 @@
+* {
+  margin: 0
+ ;   padding: 0
+  ;  
+}
+
+.principal {
+
+  width: 100%;
+  height: 100%;
+  
+}
+header {
+  width: 100%;
+  height: 100%;
+  
+  
+}
+.logo{
+  width: 100%;
+    height:100%;
+  float: left;
+  background-color: #777;
+  color: #fff;
+  font: 200% arial;
+  
+}
+figure {
+  width: center;
+  margin: auto;
+  text-align: center;
+}
