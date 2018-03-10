@@ -15,6 +15,7 @@ header {
   height: 100%;
   
   
+  
 }
 .logo{
   width: 100%;
@@ -25,8 +26,16 @@ header {
   font: 200% arial;
   
 }
+
 figure {
   width: center;
   margin: auto;
   text-align: center;
+
+  
+}
+img{border: 5px solid red;
+  border-radius: 100px
+  
+  
 }
